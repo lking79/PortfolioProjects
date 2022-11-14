@@ -1,3 +1,8 @@
+/* 
+COVID 19 Data Exploration
+
+*/
+
 SELECT *
 FROM PortfolioProject..['covid-deaths$']
 WHERE continent IS NOT NULL
